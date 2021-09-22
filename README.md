@@ -1,4 +1,3 @@
-# Hospital-data-analysis-using-spark-and-hdfs
 # Hospital data analysis using HDFS and Spark
 
 ## Project Description
